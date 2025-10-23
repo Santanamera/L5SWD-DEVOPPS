@@ -1,0 +1,1 @@
+In Git Commands, as taught by Obed, cover essential version control, allowing me to initialize repositories (git init), stage changes (git add), record history (git commit), manage parallel development with branches (git branch, git checkout), and collaborate with a team using remote repositories (git push, git pull).
